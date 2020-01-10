@@ -22,7 +22,13 @@ div#productDescription {
 }
 
 #corporate_logo {
-  width: 500px;
+  /*width: 500px;
   height: 189px;
+  */
   max-height: 189px;
+  padding: 189px 500px 0px 0px; 
+  background: url('logo.png'); 
+  background-size:auto; 
+  width:0px; 
+  height: 0px;
 }
