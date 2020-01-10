@@ -1,0 +1,28 @@
+body {
+  padding: 7px;
+  background-color: #f3f3f3;
+}
+div#logowrapper {
+  background-color: #fff;
+  text-align: center;
+  opacity: 1;
+  padding: 7px;
+  border-radius: 4px;
+}
+div#paylinkPage {
+  background-color: #FFF;
+  border-radius: 4px;
+  border: 1px solid #DDD;
+  max-width: 512px;
+  padding-bottom: 15px;
+}
+div#productDescription {
+  text-align: center;
+  padding: 20px;
+}
+
+#corporate_logo {
+  width: 500px;
+  height: 189px;
+  max-height: 189px;
+}
