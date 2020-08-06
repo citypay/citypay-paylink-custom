@@ -1,0 +1,33 @@
+img#corporate_logo, div#logowrapper, div#paylinkMenu, div#descriptor, div#paylinkPayInfo, div#requiredFieldAnnounce {
+    display: none;
+}
+
+.form-control, .btn {
+    border-radius: 4px;
+}
+
+body {
+    background-color: #fff;
+}
+
+.pl_section {
+    border: 0;
+}
+
+.pl_section h3 {
+    display: none;
+}
+
+div#paylinkFooter {
+    display: none;
+}
+
+.btn-success {
+    background-color: #1b1b92;
+    border: 0;
+}
+
+.btn-warning {
+    background-color: #da1717;
+    border: 0;
+}
