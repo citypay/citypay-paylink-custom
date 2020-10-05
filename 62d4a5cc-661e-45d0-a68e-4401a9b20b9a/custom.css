@@ -30,5 +30,6 @@ div#productDescription {
   background-size:auto; 
   width:0px; 
   height: 0px;
+  background-repeat: no-repeat;
   background-position: center;
 }
