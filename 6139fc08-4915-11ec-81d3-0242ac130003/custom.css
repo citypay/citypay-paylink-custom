@@ -9,13 +9,13 @@ div#logowrapper {
   padding: 7px;
   border-radius: 4px;
 }
-div#paylinkPage {
+/* div#paylinkPage {
   background-color: #FFF;
   border-radius: 4px;
   border: 1px solid #DDD;
   max-width: 512px;
   padding-bottom: 15px;
-}
+} */
 div#productDescription {
   text-align: center;
   padding: 20px;
