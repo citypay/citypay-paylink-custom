@@ -24,8 +24,8 @@ div#productDescription {
 #corporate_logo {
     max-height: 189px;
     padding: 170px 450px 0px 0px;
-    background: url('logo.png');
-    background-size:auto;
+    background-size: contain;
+    background: url('logo.png') no-repeat center;
     width:0px;
     height: 0px;
 }
