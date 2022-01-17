@@ -42,6 +42,19 @@ span#prev_text:after {
 button#wz_previous {
     width: 20%;
 }
+button#process {
+    width: fit-content;
+}
 input#amountEntry {
     font-size: x-large;
+}
+div#paylinkMenu {
+    width: fit-content;
+    float: right;
+}
+div#logo {
+    width: 9em;
+    height: 3em;
+    margin-top: 0;
+    margin-left: 0;
 }
