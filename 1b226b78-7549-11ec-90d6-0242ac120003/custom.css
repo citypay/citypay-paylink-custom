@@ -58,3 +58,6 @@ div#logo {
     margin-top: 0;
     margin-left: 0;
 }
+div#paylinkMenu {
+    border-bottom: 0;
+}
