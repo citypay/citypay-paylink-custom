@@ -20,7 +20,6 @@ div#productDescription {
     text-align: center;
     padding: 20px;
 }
-
 #corporate_logo {
     max-height: 189px;
     padding: 170px 450px 0 0;
@@ -29,4 +28,20 @@ div#productDescription {
     width: 0;
     height: 0;
 }
-
+span#prev_text {
+    visibility: hidden;
+    position: relative;
+}
+span#prev_text:after {
+    visibility: visible;
+    position: absolute;
+    vertical-align: middle;
+    left: 5%;
+    content: "Back";
+}
+button#wz_previous {
+    width: 20%;
+}
+input#amountEntry {
+    font-size: x-large;
+}
