@@ -31,12 +31,11 @@ div#productDescription {
 span#prev_text {
     visibility: hidden;
     position: relative;
+    font-size: 0;
 }
 span#prev_text:after {
     visibility: visible;
-    position: absolute;
-    vertical-align: middle;
-    left: 5%;
+    font-size: 14px;
     content: "Back";
 }
 button#wz_previous {
