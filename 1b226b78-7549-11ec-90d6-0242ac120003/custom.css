@@ -22,7 +22,7 @@ div#productDescription {
 }
 #corporate_logo {
     max-height: 189px;
-    padding: 170px 450px 0 0;
+    padding: 120px 450px 0 0;
     background: url('logo.png') no-repeat center;
     background-size: contain;
     width: 0;
@@ -59,4 +59,11 @@ div#logo {
 }
 div#paylinkMenu {
     border-bottom: 0;
+}
+h3 {
+    text-align: center;
+    width: 100%;
+}
+p {
+    text-align: center;
 }
