@@ -83,3 +83,6 @@ div#paylinkPayInfo p {
 .input-group.has-feedback {
     width: 95%;
 }
+span#amountEntry-error {
+    text-align: center;
+}
