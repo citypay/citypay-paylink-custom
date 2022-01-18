@@ -52,7 +52,6 @@ div#paylinkMenu {
     float: right;
 }
 div#logo {
-    width: 9em;
     height: 3em;
     margin-top: 0;
     margin-left: 0;
@@ -62,8 +61,25 @@ div#paylinkMenu {
 }
 h3 {
     text-align: center;
-    width: 100%;
+    width: initial;
+    order: 1;
+    margin-left: 0;
 }
-p {
+div#paylinkPayInfo p {
+    width: initial;
     text-align: center;
+    order: 1
+}
+#paylinkPayInfo {
+    display: flex;
+    flex-direction: column;
+}
+#cart {
+    order: 2;
+}
+#amounts {
+    order: 1;
+}
+.input-group.has-feedback {
+    width: 95%;
 }
