@@ -20,15 +20,16 @@ div#productDescription {
   text-align: center;
   padding: 20px;
 }
-
 #corporate_logo {
-  /*width: 500px;
-  height: 189px;
-  */
   max-height: 189px;
-  padding: 170px 450px 0px 0px;
-  background: url('logo.png'); 
-  background-size:auto; 
-  width:0px; 
-  height: 0px;
+  padding: 170px 360px 0 0;
+  background: url(logo.png) no-repeat center;
+  background-size: contain;
+  width: 0;
+  height: 0;
+}
+div#paylinkMenu {
+  text-align: end;
+  padding: 12px;
+  border-bottom: 1px solid #eee;
 }
